@@ -1,0 +1,6 @@
+.place__text {
+  width: calc(50% - 40px);
+  display: flex;
+  flex-direction: column;
+  gap: 26px 0;
+}

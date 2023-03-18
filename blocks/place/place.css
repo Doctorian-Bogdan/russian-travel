@@ -1,0 +1,7 @@
+.place {
+  box-sizing: border-box;
+  padding-top: 80px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 48px 40px;
+}
