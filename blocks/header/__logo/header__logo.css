@@ -1,5 +1,5 @@
 .header__logo {
-  background-image: url("/images/__logo.svg");
+  background-image: url("../../../images/__logo.svg");
   width: 176px;
   height: 52px;
 }
