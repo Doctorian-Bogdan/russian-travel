@@ -9,6 +9,6 @@
 В проекте использовались HTML5 CSS3 технологии flexbox grid layout и другие
 
 ### Ссылка на проект
-[Проект: Путешествие по России](#)
+[Проект: Путешествие по России](https://doctorian-bogdan.github.io/russian-travel/)
 
 
