@@ -1,12 +1,15 @@
-.intro__title {
+.cover__title {
   margin: 0;
-  font-size: 54px;
+  font-size: 72px;
   font-weight: 900;
-  line-height: 58px;
+  line-height: 76px;
+  text-align: center;
+  max-width: 560px;
+  z-index: 1;
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px){
-  .intro__title {
+  .cover__title {
     font-size: 32px;
     line-height: 35px;
   }

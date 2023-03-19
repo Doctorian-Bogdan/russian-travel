@@ -3,3 +3,21 @@
   object-fit: contain;
   object-position: top;
 }
+
+@media screen and (min-width: 1024px) and (max-width: 1280px){
+  .place__image {
+    width: calc(50% - 32px);
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px){
+  .place__image {
+    width: calc(50% - 24px);
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px){
+  .place__image {
+    width: 100%;
+  }
+}

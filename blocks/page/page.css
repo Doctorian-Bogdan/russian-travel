@@ -160,3 +160,15 @@
   padding: 0 48px;
   margin: 0 auto;
 }
+
+@media screen and (min-width: 768px) and (max-width: 1023px){
+  .page {
+    padding: 0 24px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px){
+  .page {
+    padding: 0 16px;
+  }
+}
