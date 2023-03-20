@@ -1,7 +1,0 @@
-.header__radio {
-  display: none;
-}
-
-.header__radio:checked + .header__radio-underline {
-  display: block;
-}

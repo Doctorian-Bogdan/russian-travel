@@ -4,7 +4,7 @@
   object-position: top;
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1280px){
+@media screen and (min-width: 1024px) and (max-width: 1279px){
   .place__image {
     width: calc(50% - 32px);
   }
@@ -16,7 +16,7 @@
   }
 }
 
-@media screen and (min-width: 320px) and (max-width: 767px){
+@media screen and (max-width: 767px){
   .place__image {
     width: 100%;
   }
