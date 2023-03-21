@@ -3,6 +3,7 @@
   padding-top: 92px;
 }
 
+/*Отрицательные отступы необходимы для перекрытия паддинга чтобы блоки занимали всю ширину как в брифе*/
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .cover {
     margin: 0 -48px;

@@ -1,18 +1,17 @@
 .place__image {
-  width: calc(50% - 40px);
   object-fit: contain;
   object-position: top;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px){
   .place__image {
-    width: calc(50% - 32px);
+    width: calc(50% - 24px);
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px){
   .place__image {
-    width: calc(50% - 24px);
+    width: calc(50% - 20px);
   }
 }
 

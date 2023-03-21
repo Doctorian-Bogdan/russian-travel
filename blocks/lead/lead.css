@@ -7,6 +7,7 @@
   align-items: center;
 }
 
+/*Отрицательные отступы необходимы для перекрытия паддинга чтобы блоки занимали всю ширину как в брифе*/
 @media screen and (min-width: 1024px) and (max-width: 1279px){
   .lead {
     padding-top: 48px;
