@@ -1,5 +1,5 @@
 .place__text {
-  width: calc(50% - 40px);
+  width: calc(50% - 10px);
   display: flex;
   flex-direction: column;
   gap: 26px 0;
@@ -15,6 +15,7 @@
   .place__text {
     width: calc(50% - 10px);
     padding-left: 5px;
+    gap: 24px 0;
   }
 }
 
@@ -23,7 +24,7 @@
     width: 100%;
     box-sizing: border-box;
     padding-left: 16px;
-    gap: 25px 0;
+    gap: 24px 0;
     padding-right: 20px;
   }
 }
