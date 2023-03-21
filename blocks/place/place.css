@@ -6,7 +6,6 @@
   gap: 48px 40px;
 }
 
-/*Отрицательные отступы необходимы для перекрытия паддинга чтобы блоки занимали всю ширину как в брифе*/
 @media screen and (min-width: 1024px) and (max-width: 1279px){
   .place {
     gap: 48px 32px;
@@ -25,6 +24,6 @@
     padding-top: 50px;
     flex-direction: column;
     gap: 32px;
-    margin: 0 -16px;
+    /*margin: 0 -16px;*/
   }
 }
